@@ -1,6 +1,6 @@
 JsonListView (beginner)
 --------------
-BB10 sample app that uses JSON data to construct a dataModel.
+BB10 sample app that uses JSON data to construct a dataModel. Written to help another dev.
 
 
 
